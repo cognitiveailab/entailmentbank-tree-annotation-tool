@@ -2,9 +2,8 @@
 
 This is the repository for the EntailmentBank annotation tool, which allows authoring tree-structured explanations such as those found in EntailmentBank.  For more information, please see the paper [Explaining Answers with Entailment Trees (EMNLP 2021) (PDF)](https://aclanthology.org/2021.emnlp-main.585.pdf).
 
-```
 ![alt text](https://github.com/cognitiveailab/entailmentbank-tree-annotation-tool/blob/main/entailmentbank-tool-screenshot.png)
-```
+
 
 ## Alternate Repositories:
 While this repository focuses on the EntailmentBank annotation tool, several other repositories exist for the official dataset, and evaluation code:
