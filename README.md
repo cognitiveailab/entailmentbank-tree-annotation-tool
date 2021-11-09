@@ -52,6 +52,10 @@ Note that this tool requires json-server version 0.16.1 :
     > json-server --version
     0.16.1
 
+Don't forget to install the various other packages required as well:
+
+    npm install
+
 
 ## Running the server/tool:
 The tool is run in a web browser, and has two back-end components that need to be run separately: the json-server (for the database), and the node server back-end (for the tool client):
