@@ -83,7 +83,9 @@ You should see an interface that looks something the interface below.
 
 ----
 
-Usage: 
+## Usage: 
+
+This short, informal Youtube video covers installing the tool on a fresh Ubuntu 20.04LTS virtual machine, and gives a quick overview of using the tool:
 
 [![EntailmentBank Annotation Tool - Installation and Use](youtube-screenshot.png)](https://youtu.be/c3oZWol_m_4 "EntailmentBank Annotation Tool - Installation and Use")
 
