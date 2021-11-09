@@ -85,7 +85,7 @@ You should see an interface that looks something the interface below.
 
 Usage: 
 
-[![EntailmentBank Annotation Tool - Installation and Use](http://img.youtube.com/vi/c3oZWol_m_4/0.jpg)](https://youtu.be/c3oZWol_m_4 "EntailmentBank Annotation Tool - Installation and Use")
+[![EntailmentBank Annotation Tool - Installation and Use](youtube-screenshot.png)](https://youtu.be/c3oZWol_m_4 "EntailmentBank Annotation Tool - Installation and Use")
 
 ----
 
