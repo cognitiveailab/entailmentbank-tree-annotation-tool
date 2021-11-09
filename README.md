@@ -3,7 +3,7 @@
 This is the repository for the EntailmentBank annotation tool, which allows authoring tree-structured explanations such as those found in EntailmentBank.  For more information, please see the paper [Explaining Answers with Entailment Trees (EMNLP 2021) (PDF)](https://aclanthology.org/2021.emnlp-main.585.pdf).
 
 ```
-![alt text](entailmentbank-tool-screenshot.png)
+![alt text](./entailmentbank-tool-screenshot.png)
 ```
 
 ## Alternate Repositories:
